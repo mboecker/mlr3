@@ -13,7 +13,6 @@ authors:
     orcid: 0000-0001-6002-6980
     affiliation: 2
   - name: Martin Binder
-    orcid: ???
     affiliation: 2
   - name: Jakob Richter
     orcid: 0000-0003-4481-5554
